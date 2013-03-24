@@ -1,4 +1,4 @@
-root: http://0.0.0.0:4000/
+#root: http://0.0.0.0:4000/
 root: http://finds.samat.me/
 auto: true
 server: true
