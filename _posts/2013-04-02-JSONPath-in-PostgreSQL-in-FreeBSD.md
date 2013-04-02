@@ -21,3 +21,5 @@ So, rebuild postgresql from ports with ${PTHREAD_LIBS} enabled (from previous li
 Get plv8js and apply [patch](http://code.google.com/p/plv8js/issues/detail?id=59) to it.
 
 Install plv8js and pg-jsonpath and you are done.
+
+Probably I will make ports for both plv8js and pg-jsonpath, but not right now, sorry.
