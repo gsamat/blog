@@ -1,4 +1,4 @@
 finds
 =====
 
-finds.samat.me
+blog.samat.me
