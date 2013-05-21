@@ -1,5 +1,5 @@
 #root: http://0.0.0.0:4000/
-root: http://finds.samat.me/
+root: http://blog.samat.me/
 auto: true
 server: true
 markdown: rdiscount
